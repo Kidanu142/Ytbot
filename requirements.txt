@@ -1,0 +1,20 @@
+# VIPER YouTube Downloader Requirements
+# Created by VIPER
+
+# Telegram Bot Framework
+pyTelegramBotAPI==4.19.1
+
+# YouTube Download Libraries
+yt-dlp==2024.7.23
+pytube==15.0.0
+
+# Database
+sqlite3
+
+# Utilities
+requests==2.32.3
+urllib3==2.2.1
+
+# Optional Dependencies for Enhanced Features
+pillow==10.3.0
+ffmpeg-python==0.2.0
